@@ -1,7 +1,12 @@
 ---
-title: "Untitled"
-format: html
-editor: visual
+title: "Geographical Pattern of Martyrs’ Memorial Facilities and China's Communist Revolution"
+subtitle: "GIS Final Project"
+author: "Xiangming Zeng"
+execute:
+  warning: false
+format:
+  html:
+    embed-resources: true
 ---
 
 ## Load Libraries
